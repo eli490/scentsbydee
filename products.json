@@ -1,0 +1,42 @@
+[
+  {
+    "id": "citrus-sunrise-a1b2",
+    "name": "Citrus Sunrise (sample)",
+    "family": "Citrus",
+    "gender": "Unisex",
+    "notes": "Orange, lime, bergamot, white musk",
+    "sizes": [{"label": "50ml", "price": 4500}, {"label": "100ml", "price": 7500}],
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": "peony-blush-c3d4",
+    "name": "Peony Blush (sample)",
+    "family": "Floral",
+    "gender": "Women",
+    "notes": "Peony, jasmine, soft musk",
+    "sizes": [{"label": "50ml", "price": 4800}, {"label": "100ml", "price": 8000}],
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": "berry-bloom-e5f6",
+    "name": "Berry Bloom (sample)",
+    "family": "Fruity",
+    "gender": "Women",
+    "notes": "Raspberry, pink pepper, vanilla",
+    "sizes": [{"label": "50ml", "price": 4400}, {"label": "100ml", "price": 7300}],
+    "image": "",
+    "inStock": true
+  },
+  {
+    "id": "amber-oud-a7b8",
+    "name": "Amber Oud (sample)",
+    "family": "Oud & Musky",
+    "gender": "Men",
+    "notes": "Oud, amber, leather, musk",
+    "sizes": [{"label": "50ml", "price": 6800}, {"label": "100ml", "price": 11500}],
+    "image": "",
+    "inStock": true
+  }
+]

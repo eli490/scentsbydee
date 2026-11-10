@@ -1,0 +1,19 @@
+{
+  "shopName": "ScentsbyDee",
+  "tagline": "Fragrances for a brighter you",
+  "currency": "KES",
+  "paymentOptions": [
+    "M-Pesa on delivery",
+    "Cash on delivery",
+    "M-Pesa before delivery"
+  ],
+  "notice": {
+    "enabled": true,
+    "heading": "Dear Clients,",
+    "text": "As we survive this extremely hot weather, a little scent advice from us.",
+    "skipTitle": "Give the heavy Oud and musky scents a little break.",
+    "skipText": "They can be a bit too intense in this heat.",
+    "tryTitle": "Instead, go for fruity, floral and citrus scents.",
+    "tryText": "They feel fresh, light and perfect for the season."
+  }
+}
